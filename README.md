@@ -1,6 +1,9 @@
 <div align="center">
   <Strong>Tech Stack</Strong>
 </div>
+
+<br/>
+
 <div align="center">
   platforms & Languages
  </div>
@@ -16,6 +19,9 @@
 	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 </div>
+
+<br/>
+
 <div align="center">
   Tools
 </div>
@@ -26,9 +32,13 @@
   <img src="https://img.shields.io/badge/GitHube-181717?style=flat&logo=github&logoColor=white" />
 </div>
 
+<br/><br/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyeon622&layout=compact">
 </div>
+
+<br/>
 
 <div align="center">
   || BaekJoon ||
