@@ -1,11 +1,11 @@
 <div align="center">
-  <Strong>Tech Stack</Strong>
+	✨<Strong>Tech Stack</Strong>✨
 </div>
 
 <br/>
 
 <div align="center">
-  platforms & Languages
+	📚<strong>platforms & Languages</strong>📚
  </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -23,7 +23,7 @@
 <br/>
 
 <div align="center">
-  Tools
+  🛠️<strong>Tools</strong>🛠️
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" />
@@ -42,7 +42,7 @@
 <br/>
 
 <div align="center">
-  || BaekJoon ||
+  🎓<strong>BaekJoon</strong>🎓
 </div>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=daenggui)](https://solved.ac/daenggui)
