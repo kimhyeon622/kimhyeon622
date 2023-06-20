@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-	📚<strong>Languages</strong>📚
+	📚<strong>Languages & Framework</strong>📚
  </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
